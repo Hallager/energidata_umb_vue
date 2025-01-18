@@ -7,3 +7,8 @@ front-end fetches data using the Umbraco delivery API, then renders html.
 
 ## tech stack
 Vite and vue are used to build the front-end assets. and the front-end assets are served by the Vite.AspNetCore middleware in umbraco when the site is in development mode, and in production mode the front-end assets are build and served by the umbraco site.
+
+
+## login 
+user: admin@example.com
+password: 1234567890
