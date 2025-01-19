@@ -14,4 +14,5 @@ From one of the customElements, vue is fetches data using the Umbraco delivery A
 
 ## login 
 user: admin@example.com
+
 password: 1234567890

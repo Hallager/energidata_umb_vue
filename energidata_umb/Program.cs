@@ -36,15 +36,6 @@ app.UseUmbraco()
         u.UseWebsiteEndpoints();
     });
 
-
-    RouteTable.Routes.MapRoute(
-            name: "VueCatchAll",
-            url: "app/{*vuePath}", // URL-stier starter med 'app/'
-            defaults: new { controller = "Home", action = "Index" }
-        );
-
-
-
 if (app.Environment.IsDevelopment())
 {
     Console.WriteLine("app.Environment.IsDevelopment()");
