@@ -1,7 +1,12 @@
 <template>
-  <div class="dashboard">
-    <h1>Forecasts and Pricelist</h1>
 
+
+  <div class="dashboard">
+  
+
+
+    <h1>Forecasts and Pricelist</h1>
+    
     <section>
       <h2>Forecasts</h2>
       <div class="forecasts-container">
